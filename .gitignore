@@ -74,3 +74,6 @@ data/extension
 
 # Ignore config
 data/*.yaml
+
+# Ignore github
+.github/
